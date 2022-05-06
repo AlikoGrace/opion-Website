@@ -96,7 +96,7 @@ button.btn-primary-op {
     padding: 0.5rem 2.5rem;
 }
 .img{
-    height:7rem;
+    height:5rem;
 }
 .core-values{
     background-color: #040531;
@@ -109,6 +109,7 @@ background-color: rgba(166, 166, 166, 0.27);
 .my-form{
     width: 450px;
     margin: auto;
+    padding-top: 12.8rem;
 }
 .my-text{
     font-size: 1rem;
@@ -146,4 +147,7 @@ padding: 0.6rem;
 .footer-things{
 
     margin-top: 7rem;
+}
+.chess-p{
+    max-width: 400px;
 }
